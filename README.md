@@ -4,4 +4,4 @@
 
 
 
-acessar a API: http://localhost:3000/
+acessar a API:  http://localhost:3000
